@@ -5,4 +5,17 @@ body{
 }
 .container{
     background: linear-gradient(blue, red);
-}
+    max-width: 800px;
+    margin: 0 auto;
+    padding: 20px;
+    }
+    .titulo-principal{
+text-align: center;
+font-size: 2em;
+    }
+    .banner{
+      text-align: center;  
+    }
+    .banner img{
+        max-width: 100%;
+    }
